@@ -6,4 +6,5 @@
     <string name="editTextText">Текст для следующего активити</string>
     <string name="editText2Text">Запустить 1е активити</string>
     <string name="you_use_landscape_orientation">Вы используете альбомную ориентацию</string>
+    <string name="you_use_portrait_orientation">Вы используете портретную ориентацию</string>
 </resources>
