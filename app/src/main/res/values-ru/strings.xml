@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="buttonText">Запустить 2е активити</string>
+    <string name="textViewText">Текст с прошлого активити</string>
+    <string name="editTextText">Текст для следующего активити</string>
+    <string name="editText2Text">Запустить 1е активити</string>
+    <string name="you_use_landscape_orientation">Вы используете альбомную ориентацию</string>
+</resources>

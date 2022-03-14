@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="buttonText">Start second activity</string>
+    <string name="textViewText">Text from previous activity</string>
+    <string name="editTextText">Text for next activity</string>
+    <string name="editText2Text">Start first activity</string>
+    <string name="you_use_landscape_orientation">You use landscape orientation</string>
+    <string name="you_use_portrait_orientation">You use portrait orientation</string>
+</resources>
